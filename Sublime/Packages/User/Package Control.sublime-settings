@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alternate VIM Navigation",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"FileDiffs",
+		"HTML5",
+		"HTMLBeautify",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JSHint Gutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Modific",
+		"Package Control",
+		"PlainTasks",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
+		"Theme - Soda",
+		"Zen Tabs"
+	]
+}

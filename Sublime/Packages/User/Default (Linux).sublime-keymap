@@ -1,0 +1,5 @@
+[
+	 { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
+	,{ "keys": ["alt+m"], "command": "markdown_preview_select", "args": {"target": "browser"} }
+    ,{ "keys": ["ctrl+alt+m"], "command": "toggle_menu"}
+]
