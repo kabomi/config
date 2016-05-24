@@ -1,1 +1,9 @@
 Package Control.cache
+*.zip
+Cache
+Backup
+Installed Packages
+Packages
+!Packages/User/*
+Index
+Local
