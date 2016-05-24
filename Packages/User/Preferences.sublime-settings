@@ -42,7 +42,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"JSLint",
 		"Titanium API Search",
 		"Titanium Build",
 		"Vintage"
